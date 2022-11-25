@@ -2,4 +2,4 @@
 if_else_basic_login
 
 
-[patika.dev](patika.dev)
+[patika.dev](app.patika.dev)
